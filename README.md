@@ -41,3 +41,6 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lingesh-5&show_icons=true&locale=en" alt="lingesh-5" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lingesh-5&" alt="lingesh-5" /></p>
+Education 📚
+B.E in CSE, Jeppiaar Institute Of Technology, (2017-2021)
+Certified Java Full-Stack Developer, 2025
