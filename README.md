@@ -44,5 +44,5 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lingesh-5&" alt="lingesh-5" /></p>
 <h1>Education 📚</h1>
-<div>B.E in CSE, Jeppiaar Institute Of Technology, (2017-2021)</div>
-<div>Certified Java Full-Stack Developer, 2025</div>
+<div>- B.E in CSE, Jeppiaar Institute Of Technology, (2017-2021).</div>
+<div>- Certified Java Full-Stack Developer, 2025.</div>
