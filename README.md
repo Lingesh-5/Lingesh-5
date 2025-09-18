@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1mrhBPfHAUQuCEBW9T1FtH_r5nm_pSNvk/view?usp=sharing](https://drive.google.com/file/d/1mrhBPfHAUQuCEBW9T1FtH_r5nm_pSNvk/view?usp=sharing)
 
-- 👨‍💻 Portfolio: 
+- 👨‍💻 Portfolio: https://portfoliolingesh.netlify.app/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
