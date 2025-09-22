@@ -24,8 +24,9 @@ Here are some ideas to get you started:
 - Frameworks : <span><img alt="Static Badge" src="https://img.shields.io/badge/Spring%20boot-white?logo=springboot"> <img alt="Static Badge" src="https://img.shields.io/badge/Rest%20API-white?logo=rest%20api"> <img alt="Static Badge" src="https://img.shields.io/badge/Thymeleaf-white?logo=thymeleaf&logoColor=green"> <img alt="Static Badge" src="https://img.shields.io/badge/Angular-white?logo=angular&logoColor=green"> <img alt="Static Badge" src="https://img.shields.io/badge/Bootstrap-white?logo=bootstrap"> <img alt="Static Badge" src="https://img.shields.io/badge/Tailwind-white?logo=tailwindcss">
 </span><br />
 - Databases : <span><img alt="Static Badge" src="https://img.shields.io/badge/MySQL-green?logo=mysql"> <img alt="Static Badge" src="https://img.shields.io/badge/PostgreSQL-green?logo=postgresql"> <img alt="Static Badge" src="https://img.shields.io/badge/Db%20Solo-green?logo=db%20solo"> <img alt="Static Badge" src="https://img.shields.io/badge/MongoDB-green?logo=mongodb"></span><br />
-- Version control : <span><img alt="Static Badge" src="https://img.shields.io/badge/Git-red?logo=git"> <img alt="Static Badge" src="https://img.shields.io/badge/GitHub-red?logo=github"><br />
- - Deployment : <span></span>
+- Version control : <span><img alt="Static Badge" src="https://img.shields.io/badge/Git-red?logo=git"> <img alt="Static Badge" src="https://img.shields.io/badge/GitHub-red?logo=github"></span><br />
+ - Deployment : <span><img alt="Static Badge" src="https://img.shields.io/badge/Render-yellow?logo=render"> <img alt="Static Badge" src="https://img.shields.io/badge/Netlify-yellow?logo=netlify"> <img alt="Static Badge" src="https://img.shields.io/badge/Docker-yellow?logo=docker"></span><br />
+ - Other Tools : <span><img alt="Static Badge" src="https://img.shields.io/badge/Postman-black?logo=postman"> <img alt="Static Badge" src="https://img.shields.io/badge/Swagger-black?logo=swagger">
 </span>
 
 
