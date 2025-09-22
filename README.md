@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Projects:</h3>
 <ul>
- <li>E-commerce Application | Fullstack e-commerce platform (Java + Spring Boot + MySQL + Thymeleaf). Payment via Razorpay/UPI. | </li>
+ <li>E-commerce Application | Fullstack e-commerce platform (Java + Spring Boot + MySQL + Thymeleaf). Payment via Razorpay/UPI. | Tech: Java, Spring Boot, Thymeleaf, Spring Security, Razorpay, Swagger, Render | <a href="https://github.com/Lingesh-5/Final_project_2">GitHub</a> | <a href="https://final-project-2-w8nd.onrender.com/">Live</a></li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
