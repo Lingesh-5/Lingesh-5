@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate full-stack java developer</h3>
 
 <h3 align="left">Texhnical Skills</h3>
-- Languages : https://img.shields.io/badge/JavaScript-blue?logo=JavaScript <img alt="Static Badge" src="https://img.shields.io/badge/Java-blue?logo=Java">
+- Languages : <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-blue?logo=JavaScript">
+ <img alt="Static Badge" src="https://img.shields.io/badge/Java-blue?logo=Java">
 
 
 
