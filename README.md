@@ -18,15 +18,17 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate full-stack java developer</h3>
 
 <h3 align="left">Texhnical Skills:</h3>
-- Languages : <span><img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-blue?logo=JavaScript">
+<ul>
+<li>Languages : <span><img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-blue?logo=JavaScript">
  <img alt="Static Badge" src="https://img.shields.io/badge/Java-blue?logo=Java"> <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-blue?logo=html5"> <img alt="Static Badge" src="https://img.shields.io/badge/CSS-blue?logo=css">
-</span><br />
-- Frameworks : <span><img alt="Static Badge" src="https://img.shields.io/badge/Spring%20boot-white?logo=springboot"> <img alt="Static Badge" src="https://img.shields.io/badge/Rest%20API-white?logo=rest%20api"> <img alt="Static Badge" src="https://img.shields.io/badge/Thymeleaf-white?logo=thymeleaf&logoColor=green"> <img alt="Static Badge" src="https://img.shields.io/badge/Angular-white?logo=angular&logoColor=green"> <img alt="Static Badge" src="https://img.shields.io/badge/Bootstrap-white?logo=bootstrap"> <img alt="Static Badge" src="https://img.shields.io/badge/Tailwind-white?logo=tailwindcss">
-</span><br />
-- Databases : <span><img alt="Static Badge" src="https://img.shields.io/badge/MySQL-green?logo=mysql"> <img alt="Static Badge" src="https://img.shields.io/badge/PostgreSQL-green?logo=postgresql"> <img alt="Static Badge" src="https://img.shields.io/badge/Db%20Solo-green?logo=db%20solo"> <img alt="Static Badge" src="https://img.shields.io/badge/MongoDB-green?logo=mongodb"></span><br />
-- Version control : <span><img alt="Static Badge" src="https://img.shields.io/badge/Git-red?logo=git"> <img alt="Static Badge" src="https://img.shields.io/badge/GitHub-red?logo=github"></span><br />
- - Deployment : <span><img alt="Static Badge" src="https://img.shields.io/badge/Render-yellow?logo=render"> <img alt="Static Badge" src="https://img.shields.io/badge/Netlify-yellow?logo=netlify"> <img alt="Static Badge" src="https://img.shields.io/badge/Docker-yellow?logo=docker"></span><br />
- - Other Tools : <span><img alt="Static Badge" src="https://img.shields.io/badge/Postman-brown?logo=postman"> <img alt="Static Badge" src="https://img.shields.io/badge/Swagger-brown?logo=swagger"></span><br /><hr />
+</span></li>
+<li>Frameworks : <span><img alt="Static Badge" src="https://img.shields.io/badge/Spring%20boot-white?logo=springboot"> <img alt="Static Badge" src="https://img.shields.io/badge/Rest%20API-white?logo=rest%20api"> <img alt="Static Badge" src="https://img.shields.io/badge/Thymeleaf-white?logo=thymeleaf&logoColor=green"> <img alt="Static Badge" src="https://img.shields.io/badge/Angular-white?logo=angular&logoColor=green"> <img alt="Static Badge" src="https://img.shields.io/badge/Bootstrap-white?logo=bootstrap"> <img alt="Static Badge" src="https://img.shields.io/badge/Tailwind-white?logo=tailwindcss">
+</span></li>
+<li>Databases : <span><img alt="Static Badge" src="https://img.shields.io/badge/MySQL-green?logo=mysql"> <img alt="Static Badge" src="https://img.shields.io/badge/PostgreSQL-green?logo=postgresql"> <img alt="Static Badge" src="https://img.shields.io/badge/Db%20Solo-green?logo=db%20solo"> <img alt="Static Badge" src="https://img.shields.io/badge/MongoDB-green?logo=mongodb"></span></li>
+<li>Version control : <span><img alt="Static Badge" src="https://img.shields.io/badge/Git-red?logo=git"> <img alt="Static Badge" src="https://img.shields.io/badge/GitHub-red?logo=github"></span></li>
+<li>Deployment : <span><img alt="Static Badge" src="https://img.shields.io/badge/Render-yellow?logo=render"> <img alt="Static Badge" src="https://img.shields.io/badge/Netlify-yellow?logo=netlify"> <img alt="Static Badge" src="https://img.shields.io/badge/Docker-yellow?logo=docker"></span></li>
+<li>Other Tools : <span><img alt="Static Badge" src="https://img.shields.io/badge/Postman-brown?logo=postman"> <img alt="Static Badge" src="https://img.shields.io/badge/Swagger-brown?logo=swagger"></span></li>
+ </ul><hr />
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lingesh-5" alt="lingesh-5" /></a> </p>
 
