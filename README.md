@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Projects:</h3>
 <ul>
- <li>E-commerce Application | Fullstack e-commerce platform (Java + Spring Boot + MySQL + Thymeleaf). Payment via Razorpay/UPI. | Tech: Java, Spring Boot, Thymeleaf, Spring Security, Razorpay, Swagger, Render | <a href="https://github.com/Lingesh-5/Final_project_2">View source code</a> | <a href="https://final-project-2-w8nd.onrender.com/">Live</a></li>
+ <li><b>E-commerce Application</b> | Fullstack e-commerce platform (Java + Spring Boot + MySQL + Thymeleaf). Payment via Razorpay/UPI. | Tech: Java, Spring Boot, Thymeleaf, Spring Security, Razorpay, Swagger, Render | <a href="https://github.com/Lingesh-5/Final_project_2">View source code</a> | <a href="https://final-project-2-w8nd.onrender.com/">Live</a></li>
  <li>Hotel Booking System | Hotel booking & management system using Java, Spring Boot, MySQL. Functionality similar to OYO and Booking.com | Tech: Java, Spring Boot, JPA, Rest API, Thymeleaf, Spring Security, Render | <a href="https://github.com/Lingesh-5/finalproject_3">View source code</a> | <a href="https://finalproject-3-by6p.onrender.com/">Live</a></li>
  <li>Real Estate Listing Platform | Full-Stack Real estate platform(Java + Spring Boot REST APIs) to list, browse and manage properties for sale or rent. | Tech: Java, Spring Boot, PostgreSQL, Spring Security, Rest API, Swagger, Hibernate Validator, Thymeleaf, Bootstrap | <a href="https://github.com/Lingesh-5/Final_project_1">View source code</a> | <a href="https://final-project-1-i10j.onrender.com/">Live</a></li>
 </ul><hr />
