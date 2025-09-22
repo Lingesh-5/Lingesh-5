@@ -20,8 +20,12 @@ Here are some ideas to get you started:
 <h3 align="left">Texhnical Skills</h3>
 - Languages : <span><img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-blue?logo=JavaScript">
  <img alt="Static Badge" src="https://img.shields.io/badge/Java-blue?logo=Java"> <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-blue?logo=html5"> <img alt="Static Badge" src="https://img.shields.io/badge/CSS-blue?logo=css">
-</span>
+</span><br />
 - Frameworks : <span><img alt="Static Badge" src="https://img.shields.io/badge/Spring%20boot-white?logo=springboot"> <img alt="Static Badge" src="https://img.shields.io/badge/Rest%20API-white?logo=rest%20api"> <img alt="Static Badge" src="https://img.shields.io/badge/Thymeleaf-white?logo=thymeleaf&logoColor=green"> <img alt="Static Badge" src="https://img.shields.io/badge/Angular-white?logo=angular&logoColor=green"> <img alt="Static Badge" src="https://img.shields.io/badge/Bootstrap-white?logo=bootstrap"> <img alt="Static Badge" src="https://img.shields.io/badge/Tailwind-white?logo=tailwindcss">
+</span><br />
+- Databases : <span><img alt="Static Badge" src="https://img.shields.io/badge/MySQL-green?logo=mysql"> <img alt="Static Badge" src="https://img.shields.io/badge/PostgreSQL-green?logo=postgresql"> <img alt="Static Badge" src="https://img.shields.io/badge/Db%20Solo-green?logo=db%20solo"> <img alt="Static Badge" src="https://img.shields.io/badge/MongoDB-green?logo=mongodb"></span><br />
+- Version control : <span><img alt="Static Badge" src="https://img.shields.io/badge/Git-red?logo=git"> <img alt="Static Badge" src="https://img.shields.io/badge/GitHub-red?logo=github"><br />
+ - Deployment : <span></span>
 </span>
 
 
