@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Lingesh AJ</h1>
 <h3 align="center">A passionate full-stack java developer</h3>
 
-<h3 align="left">Texhnical Skills</h3>
+<h3 align="left">Texhnical Skills:</h3>
 - Languages : <span><img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-blue?logo=JavaScript">
  <img alt="Static Badge" src="https://img.shields.io/badge/Java-blue?logo=Java"> <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-blue?logo=html5"> <img alt="Static Badge" src="https://img.shields.io/badge/CSS-blue?logo=css">
 </span><br />
@@ -38,7 +38,10 @@ Here are some ideas to get you started:
 
 - 👨‍💻 Portfolio:[View Portfolio](https://portfoliolingesh.netlify.app/)<hr />
 
-<h3 align="left">Projects</h3>
+<h3 align="left">Projects:</h3>
+<ul>
+ <li>E-commerce Application | Fullstack e-commerce platform (Java + Spring Boot + MySQL + Thymeleaf). Payment via Razorpay/UPI. | </li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -54,7 +57,7 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lingesh-5&show_icons=true&locale=en" alt="lingesh-5" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lingesh-5&" alt="lingesh-5" /></p>
-<h3>Education 📚</h1>
+<h3>Education 📚:</h1>
 <div>- B.E in CSE, Jeppiaar Institute Of Technology, (2017-2021).</div>
 <div>- Certified Java Full-Stack Developer, 2025.</div><br />
 
