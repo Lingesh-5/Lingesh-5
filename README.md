@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **lingeshaj1999@gmail.com**
 
-- 📄 Know about my experiences [View Resume](https://drive.google.com/file/d/1mrhBPfHAUQuCEBW9T1FtH_r5nm_pSNvk/view?usp=sharing)
+- 📄 Know about my experiences [View Resume]([https://drive.google.com/file/d/1mrhBPfHAUQuCEBW9T1FtH_r5nm_pSNvk/view?usp=sharing](https://drive.google.com/file/d/1mdGqk4xERykIkMu9FvyfJTiAJTkeT3vs/view?usp=sharing))
 
 - 👨‍💻 Portfolio:[View Portfolio](https://portfoliolingesh.netlify.app/)<hr />
 
