@@ -46,9 +46,10 @@ Here are some ideas to get you started:
 </ul><hr />
 
 <h3>Education 📚:</h1>
-<div>- B.E in CSE, Jeppiaar Institute Of Technology, (2017-2021).</div>
-<div>- Certified Java Full-Stack Developer, 2025.</div><br /><hr />
-
+<ul>
+ <li>B.E in CSE, Jeppiaar Institute Of Technology, (2017-2021).</li>
+ <li>Certified Java Full-Stack Developer, 2025.</li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
