@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - Databases : <span><img alt="Static Badge" src="https://img.shields.io/badge/MySQL-green?logo=mysql"> <img alt="Static Badge" src="https://img.shields.io/badge/PostgreSQL-green?logo=postgresql"> <img alt="Static Badge" src="https://img.shields.io/badge/Db%20Solo-green?logo=db%20solo"> <img alt="Static Badge" src="https://img.shields.io/badge/MongoDB-green?logo=mongodb"></span><br />
 - Version control : <span><img alt="Static Badge" src="https://img.shields.io/badge/Git-red?logo=git"> <img alt="Static Badge" src="https://img.shields.io/badge/GitHub-red?logo=github"></span><br />
  - Deployment : <span><img alt="Static Badge" src="https://img.shields.io/badge/Render-yellow?logo=render"> <img alt="Static Badge" src="https://img.shields.io/badge/Netlify-yellow?logo=netlify"> <img alt="Static Badge" src="https://img.shields.io/badge/Docker-yellow?logo=docker"></span><br />
- - Other Tools : <span><img alt="Static Badge" src="https://img.shields.io/badge/Postman-brown?logo=postman"> <img alt="Static Badge" src="https://img.shields.io/badge/Swagger-brown?logo=swagger"></span>
+ - Other Tools : <span><img alt="Static Badge" src="https://img.shields.io/badge/Postman-brown?logo=postman"> <img alt="Static Badge" src="https://img.shields.io/badge/Swagger-brown?logo=swagger"></span><br />
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lingesh-5" alt="lingesh-5" /></a> </p>
 
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **lingeshaj1999@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1mrhBPfHAUQuCEBW9T1FtH_r5nm_pSNvk/view?usp=sharing](https://drive.google.com/file/d/1mrhBPfHAUQuCEBW9T1FtH_r5nm_pSNvk/view?usp=sharing)
+- 📄 Know about my experiences [View Resume](https://drive.google.com/file/d/1mrhBPfHAUQuCEBW9T1FtH_r5nm_pSNvk/view?usp=sharing)
 
 - 👨‍💻 Portfolio: https://portfoliolingesh.netlify.app/
 
