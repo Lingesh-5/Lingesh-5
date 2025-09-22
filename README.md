@@ -19,13 +19,13 @@ Here are some ideas to get you started:
 
 <h3 align="left">Texhnical Skills</h3>
 - Languages : <span><img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-blue?logo=JavaScript">
- <img alt="Static Badge" src="https://img.shields.io/badge/Java-blue?logo=Java"><img alt="Static Badge" src="https://img.shields.io/badge/HTML5-blue?logo=html5"></span>
+ <img alt="Static Badge" src="https://img.shields.io/badge/Java-blue?logo=Java"> <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-blue?logo=html5"> <img alt="Static Badge" src="https://img.shields.io/badge/CSS-blue?logo=css">
+</span>
+- Frameworks : <span><img alt="Static Badge" src="https://img.shields.io/badge/Spring%20boot-white?logo=springboot"> <img alt="Static Badge" src="https://img.shields.io/badge/Rest%20API-white?logo=rest%20api"> <img alt="Static Badge" src="https://img.shields.io/badge/Thymeleaf-white?logo=thymeleaf&logoColor=green"> <img alt="Static Badge" src="https://img.shields.io/badge/Angular-white?logo=angular&logoColor=green"> <img alt="Static Badge" src="https://img.shields.io/badge/Bootstrap-white?logo=bootstrap"> <img alt="Static Badge" src="https://img.shields.io/badge/Tailwind-white?logo=tailwindcss">
+</span>
 
 
 
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lingesh-5&label=Profile%20views&color=0e75b6&style=flat" alt="lingesh-5" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lingesh-5" alt="lingesh-5" /></a> </p>
 
