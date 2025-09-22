@@ -17,6 +17,11 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Lingesh AJ</h1>
 <h3 align="center">A passionate full-stack java developer</h3>
 
+<h3 align="left">Texhnical Skills</h3>
+- Languages : https://img.shields.io/badge/JavaScript-blue?logo=JavaScript https://img.shields.io/badge/Java-blue?logo=Java
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lingesh-5&label=Profile%20views&color=0e75b6&style=flat" alt="lingesh-5" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lingesh-5" alt="lingesh-5" /></a> </p>
@@ -43,6 +48,8 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lingesh-5&show_icons=true&locale=en" alt="lingesh-5" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lingesh-5&" alt="lingesh-5" /></p>
-<h1>Education 📚</h1>
+<h3>Education 📚</h1>
 <div>- B.E in CSE, Jeppiaar Institute Of Technology, (2017-2021).</div>
 <div>- Certified Java Full-Stack Developer, 2025.</div>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lingesh-5&label=Profile%20views&color=0e75b6&style=flat" alt="lingesh-5" /> </p>
