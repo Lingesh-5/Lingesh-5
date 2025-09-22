@@ -54,6 +54,6 @@ Here are some ideas to get you started:
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lingesh-5&" alt="lingesh-5" /></p>
 <h3>Education 📚</h1>
 <div>- B.E in CSE, Jeppiaar Institute Of Technology, (2017-2021).</div>
-<div>- Certified Java Full-Stack Developer, 2025.</div>
+<div>- Certified Java Full-Stack Developer, 2025.</div><br />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lingesh-5&label=Profile%20views&color=0e75b6&style=flat" alt="lingesh-5" /> </p>
