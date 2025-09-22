@@ -38,6 +38,8 @@ Here are some ideas to get you started:
 
 - 👨‍💻 Portfolio:[View Portfolio](https://portfoliolingesh.netlify.app/)<hr />
 
+<h3 align="left">Projects</h3>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/lingesh-aj-36767321a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lingesh aj" height="30" width="40" /></a>
