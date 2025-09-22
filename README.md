@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 <ul>
  <li>B.E in CSE, Jeppiaar Institute Of Technology, (2017-2021).</li>
  <li>Certified Java Full-Stack Developer, 2025.</li>
-</ul>
+</ul><hr />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
